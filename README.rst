@@ -15,10 +15,12 @@ Installation
 Supports
 ========
 
-torquemada has been tested with Python 3.6, 3.7, 3.8 and 3.9
+torquemada has been tested manually with Python 3.9, unittests to be added
+soon
 
 Source
 ======
 
 Docs: http://torquemada.readthedocs.io/en/latest/
+
 Source: https://github.com/cltrudeau/torquemada
