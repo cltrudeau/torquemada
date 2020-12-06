@@ -12,6 +12,19 @@ Installation
 
     $ pip install torquemada
 
+Usage
+=====
+
+.. code-block:: bash
+
+    $ torq myprog.py
+
+or 
+
+.. code-block:: bash
+
+    $ torq module
+
 Supports
 ========
 
