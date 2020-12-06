@@ -1,0 +1,3 @@
+# These requirements are for dev and runing tests only. The program itself
+# only needs what is specified in setup.py
+-e ../torquemada
